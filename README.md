@@ -1,0 +1,2 @@
+# jqa
+Java for testers
